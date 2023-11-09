@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .cart-widget {
+    margin-left: auto;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
